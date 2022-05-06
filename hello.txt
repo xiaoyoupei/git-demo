@@ -1,5 +1,5 @@
 hello git!
-
+hello gitlab!
 
 xiaoyoupei@youpei MINGW64 /d/test/git_demo
 $ git init
