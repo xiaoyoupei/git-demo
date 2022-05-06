@@ -1,6 +1,6 @@
 hello git!
 hello gitlab!
-
+hello hadoop!
 xiaoyoupei@youpei MINGW64 /d/test/git_demo
 $ git init
 
