@@ -7,4 +7,5 @@ $ git init
 xiaoyoupei@youpei MINGW64 /d/test/git_demo
 $ git init
 xiaoyoupei@youpei MINGW64 /d/test/git_demo master
+xiaoyoupei@youpei MINGW64 /d/test/git_demo hot-fix
 $ git init
